@@ -1,7 +1,7 @@
 var size = 0;
 var placement = 'point';
 
-var style_Vxt_3 = function(feature, resolution){
+var style_vaxt_3 = function(feature, resolution){
     var context = {
         feature: feature,
         variables: {}
@@ -12,7 +12,7 @@ var style_Vxt_3 = function(feature, resolution){
     var labelFont = "15.600000000000001px \'Open Sans\', sans-serif";
     var labelFill = "#323232";
     var bufferColor = "#fafafa";
-    var bufferWidth = 4.0;
+    var bufferWidth = 2.0;
     var textAlign = "left";
     var offsetX = 8;
     var offsetY = 3;
